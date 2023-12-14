@@ -10,3 +10,5 @@ function App() {
 }
 
 export default App;
+
+//renders the main page to the app
